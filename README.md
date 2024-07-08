@@ -1,13 +1,13 @@
 <h1 align="center">
-  Corporio
+  (Ambiguous) Hugo-Corporio
 </h1>
 
 <h3 align="center">
-  Corporation Website Template
+  Corporation Website Template - Ready for Content
 </h3>
 
 <p align="center">
-  Corporio is an enterprise level corporation website template leveraging latest technologies making it secure, fast, and SEO-ready — by default
+  Corporio is an enterprise level corporation website template leveraging latest technologies making it secure, fast, and SEO-ready — by default - This version has been edited for ambiguity, especially in variables. It is ready for content, and differs, somewhat superficially, from the original version by [AminZaribay](https://github.com/AminZaribay/Corporio)
 </p>
 
 <!-- <p align="center">
@@ -28,7 +28,7 @@
   </a>
 </p> -->
 
-![Corporio — Corporation Website Template](https://raw.githubusercontent.com/AminZibayi/Corporio/master/images/tn.png)
+![Corporio — Corporation Website Template](https://raw.githubusercontent.com/drpdead/Hugo-Corporio/main/images/tn.png)
 
 - [Demo](#demo)
 - [Why Corporio?](#why-corporio)
@@ -38,10 +38,6 @@
     - [1. Create a new site](#1-create-a-new-site)
     - [2. Install dependencies](#2-install-dependencies)
     - [3. Start development server](#3-start-development-server)
-  - [As a Theme](#as-a-theme)
-    - [1. Create a new site](#1-create-a-new-site-1)
-    - [2. Install dependencies](#2-install-dependencies-1)
-    - [3. Configure website](#3-configure-website)
 - [Tina CMS](#tina-cms)
   - [Using TinaCMS development mode](#using-tinacms-development-mode)
   - [Using TinaCMS with Corporio in production](#using-tinacms-with-corporio-in-production)
@@ -104,24 +100,6 @@ npm run start
 pnpm start
 ```
 
-### As a Theme
-
-#### 1. Create a new site
-
-```bash
-git submodule add https://github.com/AminZibayi/Corporio.git themes/corporio
-```
-
-#### 2. Install dependencies
-
-```bash
-cd /themes/corporio && pnpm install
-```
-
-#### 3. Configure website
-
-Add `theme: "corporio"` to your website config file.
-
 ## Tina CMS
 
 The Corporio template includes integration with TinaCMS, an open-source headless content management system. TinaCMS allows you to edit and manage content directly within GitHub repositories using a graphical editing interface.
@@ -164,6 +142,7 @@ _TODO_
 _TODO_
 
 ## Contributing
+ALL CONTRIBUTIONS SHOULD BE MADE TO THE ORIGINAL TEMPLATE/THEME BY [AminZaribay](https://github.com/AminZaribay/Corporio)
 
 You can contribute to this project by using it to create your own website, sharing it with your friends, sharing your ideas or reporting a bug through opening an issue and informing us if you have crafted your website using Corporio.
 
