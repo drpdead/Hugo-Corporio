@@ -1,4 +1,5 @@
-baseURL: 'https://corporio.onrender.com/'
+# Edit fields with < >
+baseURL: 'https://localhost/'
 languageCode: en-us
 disableAliases: true
 disableHugoGeneratorInject: false
@@ -6,7 +7,7 @@ enableEmoji: true
 enableGitInfo: false
 enableRobotsTXT: true
 paginate: 6
-title: Helmani
+title: Hugo-Corporio
 rssLimit: 10
 outputs:
   home:

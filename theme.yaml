@@ -1,10 +1,10 @@
-name: Corporio
+name: Hugo-Corporio
 license: MIT
-licenselink: "https://github.com/AminZibayi/Corporio/blob/master/LICENSE"
+licenselink: "https://github.com/drpdead/Hugo-Corporio/blob/master/LICENSE"
 description: >-
   Enterprise level corporation website leveraging latest technologies making it
   secure, fast, and SEO-ready — by default.
-homepage: "https://github.com/AminZibayi/Corporio"
+homepage: "https://github.com/drpdead/Hugo-Corporio"
 tags:
   - landing page
   - blog
@@ -34,5 +34,5 @@ features:
 
 min_version: 0.75.0
 author:
-  name: Amin Zibayi
-  homepage: "https://github.com/AminZibayi"
+  name: J.Redd Robinson
+  homepage: "https://github.com/drpdead"

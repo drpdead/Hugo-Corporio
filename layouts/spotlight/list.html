@@ -18,7 +18,7 @@
       </svg>
     </div>
     <div class="animate-pattern">
-      <img src="{{ "images/service/background-pattern.svg" | absURL }}" alt="background-shape" />
+      <img src="{{ "images/gallery/background-pattern.svg" | absURL }}" alt="background-shape" />
     </div>
     <div class="container">
       <div class="row">
@@ -39,13 +39,13 @@
     <div class="container">
       <div class="row">
         <div class="col-12">
-          <div class="product-item-grid">
+          <div class="spotlight-item-grid">
             {{ range .Paginator.Pages }}
-              <div class="product-item">
+              <div class="spotlight-item">
                 {{ $asset := resources.Get .Params.thumbnail }}
                 {{ $img := $asset.Resize "700x webp" }}
-                <img src="{{ $img.RelPermalink }}" class="product-item-thumb" alt="product-thumb" />
-                <div class="product-item-content">
+                <img src="{{ $img.RelPermalink }}" class="spotlight-item-thumb" alt="product-thumb" />
+                <div class="spotlight-item-content">
                   <span>{{ .Params.categories }}</span>
                   <h3 class="mb-0">
                     <a class="text-dark" href="{{ .Permalink }}">{{ .Title }}</a>

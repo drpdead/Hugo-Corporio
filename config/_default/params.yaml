@@ -1,31 +1,30 @@
 titleSeparator: '-'
-titleAddition: Nuts and Dried Food
+titleAddition: Sub-Title
 description: >-
-  Healthy Food, Healthy Life, The premium quality and tasty dried fruits and
-  nuts from the best farms of Iran to bring you a healthier and tastier life!
+  description
 images:
   - favicon.ico
 ogLocale: en_US
-titleHome: Helmani Food
-twitterSite: '@gethyas'
-twitterCreator: '@henkverlinde'
+titleHome: HomeTitle
+twitterSite: '@twitter_alias'
+twitterCreator: '@twitter_alias'
 schemaType: Organization
-schemaName: Hyas
-schemaAuthor: Henk Verlinde
-schemaAuthorTwitter: 'https://twitter.com/henkverlinde'
-schemaAuthorLinkedIn: 'https://www.linkedin.com/in/henkverlinde/'
-schemaAuthorGitHub: 'https://github.com/h-enk'
+schemaName: SchemaName
+schemaAuthor: J.Redd Robinson
+schemaAuthorTwitter: 'https://twitter.com/'
+schemaAuthorLinkedIn: 'https://www.linkedin.com/'
+schemaAuthorGitHub: 'https://github.com/drpdead'
 schemaLocale: en-US
-schemaLogo: logo-hyas.png
+schemaLogo: logo.png
 schemaLogoWidth: 512
 schemaLogoHeight: 512
-schemaImage: hyas.png
+schemaImage: schema.png
 schemaImageWidth: 1280
 schemaImageHeight: 640
-schemaTwitter: 'https://twitter.com/gethyas'
+schemaTwitter: 'https://twitter.com/'
 schemaLinkedIn: ''
-schemaGitHub: 'https://github.com/h-enk/hyas'
-themeColor: '#3ac58d'
+schemaGitHub: 'https://github.com/drpdead/Hugo-Corporio'
+themeColor: 'red'
 landscapePhotoWidths:
   - 900
   - 800
@@ -55,25 +54,23 @@ fillImage: 1280x720 Center
 alert: false
 alertDismissable: true
 alertText: >-
-  Deliver web projects 10x faster. <a class="alert-link"
-  href="https://www.netlify.com/whitepaper/" target="_blank" rel="noopener">Get
-  the free enterprise paper →</a>
+  Alert at top of main page. Can include HTML <a href="https://mozilla.com/html">tags</a>
 blogPageURL: blog
 contactLink: contact
-copyright: All right reserved copyright © Helmani 2022
+copyright: All right reserved copyright © dropdeaddesigns 2024
 footerLogo: images/site-navigation/logo.png
 footerContact:
-  topTitle: Let's Start
-  title: The Start of a Dream
-  button: Get in Touch
+  topTitle: Top Title
+  title: Lower Title below Top Title
+  button: HomeButtonText
 fabformURL: 'https://fabform.io/f/JpTXRUa'
 googleAnalytics: YOUR GOOGLE ANALYTICS CODE
 logo: images/site-navigation/logo.png
 address:
-  address: '20 Piroozi, Sattar Khan, Tehran.'
-  email: info@helmani.com
+  address: '555 Main St..'
+  email: info@dropdeaddesigns.com
   openingHours: Open from 10am to 6pm (close at 5pm Sundays)
-  phone: (+98) 911 86 2774
+  phone: (+1) 555-555-2774
 map:
   APIkey: YOUR GOOGLE MAP API
   latitude: '23.7783741'

@@ -1,5 +1,5 @@
 mounts:
   - source: layouts
     target: layouts
-  - source: node_modules/@hyas/images/layouts
+  - source: node_modules/@site/images/layouts
     target: layouts

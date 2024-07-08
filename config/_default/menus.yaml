@@ -2,19 +2,19 @@ main:
   - name: Home
     url: ""
     weight: 1
-  - name: Categories
+  - name: SwipeGallery
     url: "#service"
     weight: 2
-  - name: Certificates
+  - name: Img/TextLists
     url: "#resume"
     weight: 3
-  - name: About
+  - name: AboutBlurb
     url: "#about"
     weight: 4
-  - name: Products
+  - name: ProductSpotlight
     url: "#product"
     weight: 5
-  - name: Testimonials
+  - name: Testimonials/Quotes
     url: "#testimonial"
     weight: 6
   - name: Blog
@@ -27,7 +27,7 @@ sitemap:
   - name: Contact Us
     url: "contact"
     weight: 2
-  - name: Products
+  - name: IndividualProducts
     url: "product"
     weight: 3
   - name: Blog

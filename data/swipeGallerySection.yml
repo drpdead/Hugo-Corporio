@@ -7,39 +7,39 @@ title: >
   Helmani.
 service:
   - content: >
-      #### Pistachios 
+      #### Pistachios
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/pistachio.png
+    image: images/gallery/pistachio.png
   - content: >
       #### Raisins
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/raisins.png
+    image: images/gallery/raisins.png
   - content: >
-      #### Dates 
+      #### Dates
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/dates.png
+    image: images/gallery/dates.png
   - content: >
       #### Walnuts
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/walnut.png
+    image: images/gallery/walnut.png
   - content: >
       #### Saffron
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/saffron.png
+    image: images/gallery/saffron.png
   - content: >
       #### Barberries
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/barberry.png
+    image: images/gallery/barberry.png
 _template: service_template

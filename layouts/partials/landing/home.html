@@ -1,18 +1,18 @@
-{{ with .Site.Data.hero }}
+{{ with .Site.Data.home }}
   {{ if .enable }}
-    <section class="hero" id="home">
-      <div class="hero_background-svg">
+    <section class="home" id="home">
+      <div class="home_background-svg">
         <svg viewBox="0 0 1437 1180">
           <path fill="#f1f6f9" d="M0 0h1377l60 1010a120 120 0 01-120 120L0 1180z" data-name="Path 1350" />
         </svg>
       </div>
-      <div class="hero_footer-svg">
-        <img src="images/hero/figure-svg.svg" alt="" />
+      <div class="home_footer-svg">
+        <img src="images/home/figure-svg.svg" alt="" />
       </div>
       <div class="container">
         <div class="row align-items-center">
           <div class="col-lg-6">
-            <div class="hero_content">
+            <div class="home_content">
               <div class="hero_blob">
                 <svg viewBox="0 0 550 550">
                   <defs>
@@ -39,24 +39,24 @@
             </div>
           </div>
           <div class="col-lg-6">
-            <div class="hero_figure">
+            <div class="home_figure">
               <div class="figure-svg">
-                <img src="images/hero/figure-svg.svg" alt="figure-svg" />
+                <img src="images/home/figure-svg.svg" alt="figure-svg" />
               </div>
               {{ $asset := resources.Get .image }}
               {{ $img := $asset.Fit "1500x1000 webp" }}
               <img
                 src="{{ $img.RelPermalink }}"
-                alt="hero-image"
+                alt="home-image"
                 style="
-                  -webkit-mask: url({{ "images/hero/hero-mask-svg.png" | absURL }});
+                  -webkit-mask: url({{ "images/home/home-mask-svg.png" | absURL }});
                   -webkit-mask-repeat: no-repeat;
                   -webkit-mask-size: contain;
                   -webkit-mask-position: center center;
                 " />
 
               {{ if .videoURL }}
-                <div class="hero_figure-popup">
+                <div class="home_figure-popup">
                   <div class="thumb">
                     {{ $asset := resources.Get .videoThumb }}
                     {{ $img := $asset.Fit "320x180 webp" }}

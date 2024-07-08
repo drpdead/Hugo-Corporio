@@ -1,5 +1,5 @@
 {
-  "name": "corporio",
+  "name": "Hugo-Corporio",
   "description": "Corporio Hugo Theme",
   "version": "1.5.8",
   "engines": {
@@ -8,13 +8,13 @@
   "browserslist": [
     "defaults"
   ],
-  "repository": "https://github.com/AminZibayi/Corporio",
+  "repository": "https://github.com/drpdead/Hugo-Corporio",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
   "author": {
-    "name": "Amin Zibayi"
+    "name": "J.Redd Robinson"
   },
   "scripts": {
     "init": "shx rm -rf .git && git init -b main",

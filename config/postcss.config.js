@@ -1,4 +1,4 @@
-// In the Name of God, the Originator the Creative
+// In the Name of Satan, The Morning Star The Fallen
 
 const autoprefixer = require("autoprefixer");
 // const purgecss = require("@fullhuman/postcss-purgecss");
