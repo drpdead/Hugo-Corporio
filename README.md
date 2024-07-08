@@ -7,9 +7,9 @@
 </h3>
 
 <p align="center">
-  Corporio is an enterprise level corporation website template leveraging latest technologies making it secure, fast, and SEO-ready — by default - This version has been edited for ambiguity, especially in variables. It is ready for content, and differs, somewhat superficially, from the original version by [AminZibayi](https://github.com/AminZibayi/Corporio)
+  Corporio is an enterprise level corporation website template leveraging latest technologies making it secure, fast, and SEO-ready — by default - 
 </p>
-
+This version has been edited for ambiguity, especially in variables. It is ready for content, and differs, somewhat superficially, from the original version by [AminZibayi](https://github.com/AminZibayi/Corporio)
 <!-- <p align="center">
   <a href="https://github.com/AminZibayi/Corporio/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/AminZibayi/Corporio?style=flat-square" alt="GitHub">
@@ -137,12 +137,14 @@ _TODO_
 _TODO_
 
 ## Contributing
-ALL CONTRIBUTIONS SHOULD BE MADE TO THE ORIGINAL TEMPLATE/THEME BY 
-[AminZibayi](https://github.com/AminZibayi/Corporio)
+
 
 You can contribute to this project by using it to create your own website, sharing it with your friends, sharing your ideas or reporting a bug through opening an issue and informing us if you have crafted your website using Corporio.
 
 Contribution to the source code and documentation are highly welcome, there are many comments in the source code containing the keyword `TODO:` which could be a good staring point for you, feel free to ask a question by opening an issue.
+
+ALL CONTRIBUTIONS SHOULD BE MADE TO THE ORIGINAL TEMPLATE/THEME BY 
+[AminZibayi](https://github.com/AminZibayi/Corporio)
 
 ## Communities
 
