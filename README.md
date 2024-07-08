@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  Corporio is an enterprise level corporation website template leveraging latest technologies making it secure, fast, and SEO-ready — by default - This version has been edited for ambiguity, especially in variables. It is ready for content, and differs, somewhat superficially, from the original version by [AminZaribay](https://github.com/AminZaribay/Corporio)
+  Corporio is an enterprise level corporation website template leveraging latest technologies making it secure, fast, and SEO-ready — by default - This version has been edited for ambiguity, especially in variables. It is ready for content, and differs, somewhat superficially, from the original version by ![AminZaribay](https://github.com/AminZaribay/Corporio)
 </p>
 
 <!-- <p align="center">
@@ -142,7 +142,7 @@ _TODO_
 _TODO_
 
 ## Contributing
-ALL CONTRIBUTIONS SHOULD BE MADE TO THE ORIGINAL TEMPLATE/THEME BY [AminZaribay](https://github.com/AminZaribay/Corporio)
+ALL CONTRIBUTIONS SHOULD BE MADE TO THE ORIGINAL TEMPLATE/THEME BY ![AminZaribay](https://github.com/AminZaribay/Corporio)
 
 You can contribute to this project by using it to create your own website, sharing it with your friends, sharing your ideas or reporting a bug through opening an issue and informing us if you have crafted your website using Corporio.
 
