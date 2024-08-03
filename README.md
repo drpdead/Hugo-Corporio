@@ -78,7 +78,7 @@ Please note that it is recommended to use PNPM however you may also use NPM or Y
 #### 1. Create a new site
 
 ```bash
-git clone https://github.com/AminZibayi/Corporio.git my-corporio-site && cd my-corporio-site
+git clone https://github.com/drpdead/Hugo-Corporio.git hugo-site && cd hugo-site
 ```
 
 #### 2. Install dependencies
@@ -106,6 +106,9 @@ The Corporio template includes integration with TinaCMS, an open-source headless
 The `tina:dev` script starts TinaCMS in dev mode along with the Hugo development
 server. This allows editing content in TinaCMS and seeing changes live.
 Head to http://localhost:1313/admin to see Tina admin panel.
+Be sure to take a look at the tina configuration file(s) at `tina/config.js` to 
+ensure there are no edits or additions that need to be made before building. Variables and templating
+is done through tina and my schema, or the original schema, may not work for you particular use case. 
 
 ### Using TinaCMS with Corporio in production
 
@@ -130,27 +133,16 @@ If you don’t need Tina integration, you can use the command `pnpm build`. This
 - Work with both markdown and YAML content
 - Flexible fields and media management
 
-## Other commands
-
-_TODO_
-
-## Documentation
-
-_TODO_
-
 ## Contributing
 
+## ALL CONTRIBUTIONS SHOULD BE MADE TO THE ORIGINAL DEVELOPER OF THE CORPORIO THEME AT ITS GITHUB REPO 
+## [Corporio by Amin Zibayi](https://github.com/AminZibayi/Corporio)
 
+with all attention paid to any systems in place with which to do so. 
+
+-OR-
 You can contribute to this project by using it to create your own website, sharing it with your friends, sharing your ideas or reporting a bug through opening an issue and informing us if you have crafted your website using Corporio.
-
 Contribution to the source code and documentation are highly welcome, there are many comments in the source code containing the keyword `TODO:` which could be a good staring point for you, feel free to ask a question by opening an issue.
-
-ALL CONTRIBUTIONS SHOULD BE MADE TO THE ORIGINAL TEMPLATE/THEME BY 
-[Amin Zibayi](https://github.com/AminZibayi/Corporio)
-
-## Communities
-
-_TODO_
 
 ## License
 
